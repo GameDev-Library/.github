@@ -1,0 +1,9 @@
+{    
+    "validateDirectives": true,
+    "caseSensitive": true,
+    "language": "en-GB",
+    "files": [
+        "**/*.md"
+    ],
+    "words": []
+}

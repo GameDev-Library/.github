@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+
+    "markdownlint.config": {},
+    "markdownlint.run": "onType",
+
+    "cSpell.autoFormatConfigFile": true,
+    "cSpell.showAutocompleteSuggestions": true,
+    "cSpell.checkOnlyEnabledFileTypes": true,
+    "cSpell.spellCheckOnlyWorkspaceFiles": true,
+}
